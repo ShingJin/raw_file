@@ -3,12 +3,12 @@
 <residential>
 <listingAgent>
 <agencyname>Qfang</agencyname>
-<agentname>test</agentname>
+<agentname>Mount Parker Residence</agentname>
 <contact>18688561396</contact>
 </listingAgent>
 <mandatory>
 <buildingname>test</buildingname>
-<address>test</address>
+<address>1 Sai Wan Terrace / 西灣臺1號</address>
 <gross_area>552.0000</gross_area>
 <buy>7500000.0000</buy>
 <rent>19000.0000</rent>
@@ -33,8 +33,8 @@
 <contact>18688561396</contact>
 </listingAgent>
 <mandatory>
-<buildingname>test</buildingname>
-<address>test</address>
+<buildingname>Mount Parker Residence</buildingname>
+<address>1 Sai Wan Terrace / 西灣臺1號</address>
 <gross_area>3001.0000</gross_area>
 <buy>0</buy>
 <rent>102000.0000</rent>
