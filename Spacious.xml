@@ -3,53 +3,19 @@
 <residential>
 <listingAgent>
 <agencyname>Qfang</agencyname>
-<agentname>Yi Er</agentname>
-<contact>18688561396</contact>
+<agentname>Eric Yip</agentname>
+<contact>94729128</contact>
 </listingAgent>
 <mandatory>
-<buildingname>Axis</buildingname>
-<address>200 MA TAU WAI ROAD,Hong Kong</address>
-<gross_area>552.0000</gross_area>
-<buy>7500000.0000</buy>
-<rent>19000.0000</rent>
-<refid>1107</refid>
-</mandatory>
-<bedrooms>2</bedrooms>
-<bathroom>0</bathroom>
-<floor>High</floor>
-<flat/>
-<net_area>431.0000</net_area>
-<parking_slots>unknown</parking_slots>
-<view>test</view>
-<features/>
-<objects>
-<img file="http://yun51.qfangimg.com/group1/600x450/M00/24/89/CpmSzlZO8SGAfub-AAGuBbriO2A354.jpg?style=hk"/>
-</objects>
-</residential>
-<residential>
-<listingAgent>
-<agencyname>Qfang</agencyname>
-<agentname>test</agentname>
-<contact>18688561396</contact>
-</listingAgent>
-<mandatory>
-<buildingname>Axis</buildingname>
-<address>200 MA TAU WAI ROAD,Hong Kong</address>
-<gross_area>3001.0000</gross_area>
+<buildingname>學士臺</buildingname>
+<address>薄扶林道101</address>
+<gross_area>772.0000</gross_area>
 <buy>0</buy>
-<rent>102000.0000</rent>
-<refid>959</refid>
+<rent>27000.0000</rent>
+<refid>13259</refid>
 </mandatory>
 <bedrooms>3</bedrooms>
 <bathroom>0</bathroom>
 <floor>Low</floor>
-<flat/>
-<net_area>2361.0000</net_area>
-<parking_slots>unknown</parking_slots>
-<view>test</view>
-<features>test</features>
-<objects>
-<img file="http://yun51.qfangimg.com/group1/600x450/M00/0F/A8/CpmSzVZNPxKAM4z0AAFo8kM7nG8272.jpg?style=hk"/>
-</objects>
 </residential>
 </Listings>
